@@ -7,6 +7,7 @@
     "require": {
         "php": "^8.4",
         "semitexa/core": "*",
+        "semitexa/tenancy": "*",
         "semitexa/module-core-frontend": "*",
         "semitexa/docs": "*"
     }
