@@ -8,6 +8,7 @@
         "php": "^8.4",
         "semitexa/core": "*",
         "semitexa/tenancy": "*",
+        "semitexa/orm": "*",
         "semitexa/module-core-frontend": "*",
         "semitexa/docs": "*"
     }
