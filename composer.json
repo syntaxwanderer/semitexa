@@ -12,6 +12,7 @@
         "semitexa/locale": "*",
         "semitexa/orm": "*",
         "semitexa/ssr": "*",
+        "semitexa/acl": "*",
         "semitexa/docs": "*"
     }
 }
