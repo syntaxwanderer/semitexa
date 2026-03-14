@@ -1,8 +1,8 @@
 {
     "name": "semitexa/ultimate",
-    "description": "Meta-package: full Semitexa stack for a working SSR site (core + frontend + docs)",
+    "description": "Project skeleton: full Semitexa stack for a working SSR site (core + frontend + docs)",
     "version": "v1.0.8",
-    "type": "metapackage",
+    "type": "project",
     "license": "MIT",
     "require": {
         "php": "^8.4",
