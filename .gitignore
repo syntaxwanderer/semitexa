@@ -1,0 +1,16 @@
+# Environment — contains secrets, never commit
+.env
+
+# Composer
+vendor/
+composer.lock
+
+# Semitexa runtime
+var/log/*
+var/cache/*
+!var/log/.gitkeep
+!var/cache/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
